@@ -1,1 +1,1 @@
-# data-science
+# Collection of Data Science Projects
